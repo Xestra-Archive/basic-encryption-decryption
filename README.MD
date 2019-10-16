@@ -12,3 +12,7 @@ lorem lorem
 - specs
     - I5 8600k
     - 32GB of ram
+
+# TODO
+- benchmark
+- auto Encrypt and Decrypt files
