@@ -1,18 +1,20 @@
-# Basic Encryption Decryption 
+# Basic Encryption Decryption
+
+## 😀 About The Project
 A very basic tool that shouldn't be used in any form of storing passwords etc. This repo is mainly a test on to see if this type of encryption/decryption will work.
 
-## How to use it
-lorem lorem
+## 👿 Bugs
+- None
 
-## Pros/Cons
-- Pros
-- Cons
+## 🤔 What I learned
+- How to encrypt and decrypt
+- How to import other python files
+- How to use dictionaries
 
-## Benchmarking
-- specs
-    - I5 8600k
-    - 32GB of ram
+## 👨‍💻 Contributors
+- [Xestra](https://github.com/Xestra1)
 
-# TODO
-- benchmark
-- auto Encrypt and Decrypt files
+## 🌐 Other Information
+- [Website](https://xestra.us/)
+- [GitHub](https://github.com/Xestra1) 
+- [Discord](https://discord.gg/gRS7gw4)
